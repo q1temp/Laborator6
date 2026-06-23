@@ -58,7 +58,7 @@
 
 Скриншоты результата работы программы
 
-
+<img width="916" height="445" alt="Image" src="https://github.com/user-attachments/assets/1370b89e-737c-4588-ae88-828aedc64555" />
 
 
 
@@ -146,3 +146,4 @@ true, если количество минут в левом операнде б
 
 Скриншоты результата работы программы
 
+<img width="703" height="423" alt="Image" src="https://github.com/user-attachments/assets/ac0291f5-e774-4c49-bf58-6cf51587d9fb" />
